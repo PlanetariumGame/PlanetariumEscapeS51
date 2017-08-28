@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetariumEscape", "Assembly-CSharp-firstpass.csproj", "{75ADABB4-4D5C-55F2-868E-4CF873CEA218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetariumEscape", "Assembly-CSharp.csproj", "{23BF2A09-58BF-139F-9FC1-424BB874318D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetariumEscape", "Assembly-CSharp-Editor-firstpass.csproj", "{031817A5-FF31-FADC-79D9-CC81B9E11C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75ADABB4-4D5C-55F2-868E-4CF873CEA218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ADABB4-4D5C-55F2-868E-4CF873CEA218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ADABB4-4D5C-55F2-868E-4CF873CEA218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ADABB4-4D5C-55F2-868E-4CF873CEA218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BF2A09-58BF-139F-9FC1-424BB874318D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BF2A09-58BF-139F-9FC1-424BB874318D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BF2A09-58BF-139F-9FC1-424BB874318D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BF2A09-58BF-139F-9FC1-424BB874318D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031817A5-FF31-FADC-79D9-CC81B9E11C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031817A5-FF31-FADC-79D9-CC81B9E11C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031817A5-FF31-FADC-79D9-CC81B9E11C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031817A5-FF31-FADC-79D9-CC81B9E11C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
