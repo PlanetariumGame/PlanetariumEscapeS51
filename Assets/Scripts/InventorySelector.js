@@ -1,0 +1,1 @@
+﻿static var InventorySelected : int = 3;
